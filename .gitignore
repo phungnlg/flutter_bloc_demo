@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+node_modules/
+functions/node_modules
+
+.flutter-plugins
