@@ -1,0 +1,8 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/mac24h/flutter
+FLUTTER_APPLICATION_PATH=/Users/mac24h/Downloads/flutter_bloc_tutorial-master
+FLUTTER_TARGET=/Users/mac24h/Downloads/flutter_bloc_tutorial-master/lib/main.dart
+FLUTTER_BUILD_MODE=debug
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/mac24h/flutter/bin/cache/artifacts/engine/ios
